@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\1 уровень\\Новая папка.csproj",
+      "projectUniqueName": "C:\\Praktika pozdrav 1 lvl\\Новая папка.csproj",
       "projectName": "Новая папка",
-      "projectPath": "C:\\1 уровень\\Новая папка.csproj",
+      "projectPath": "C:\\Praktika pozdrav 1 lvl\\Новая папка.csproj",
       "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-      "outputPath": "C:\\1 уровень\\obj\\",
+      "outputPath": "C:\\Praktika pozdrav 1 lvl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Артем\\AppData\\Roaming\\NuGet\\NuGet.Config"

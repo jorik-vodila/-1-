@@ -26,3 +26,17 @@ C:\1 уровень\obj\Debug\net9.0\refint\Новая папка.dll
 C:\1 уровень\obj\Debug\net9.0\Новая папка.pdb
 C:\1 уровень\obj\Debug\net9.0\Новая папка.genruntimeconfig.cache
 C:\1 уровень\obj\Debug\net9.0\ref\Новая папка.dll
+C:\Praktika pozdrav 1 lvl\bin\Debug\net9.0\Новая папка.exe
+C:\Praktika pozdrav 1 lvl\bin\Debug\net9.0\Новая папка.deps.json
+C:\Praktika pozdrav 1 lvl\bin\Debug\net9.0\Новая папка.runtimeconfig.json
+C:\Praktika pozdrav 1 lvl\bin\Debug\net9.0\Новая папка.dll
+C:\Praktika pozdrav 1 lvl\bin\Debug\net9.0\Новая папка.pdb
+C:\Praktika pozdrav 1 lvl\obj\Debug\net9.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Praktika pozdrav 1 lvl\obj\Debug\net9.0\Новая папка.AssemblyInfoInputs.cache
+C:\Praktika pozdrav 1 lvl\obj\Debug\net9.0\Новая папка.AssemblyInfo.cs
+C:\Praktika pozdrav 1 lvl\obj\Debug\net9.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Praktika pozdrav 1 lvl\obj\Debug\net9.0\Новая папка.dll
+C:\Praktika pozdrav 1 lvl\obj\Debug\net9.0\refint\Новая папка.dll
+C:\Praktika pozdrav 1 lvl\obj\Debug\net9.0\Новая папка.pdb
+C:\Praktika pozdrav 1 lvl\obj\Debug\net9.0\Новая папка.genruntimeconfig.cache
+C:\Praktika pozdrav 1 lvl\obj\Debug\net9.0\ref\Новая папка.dll
